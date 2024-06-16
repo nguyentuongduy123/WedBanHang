@@ -1,0 +1,187 @@
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll.config
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.pdb
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Owin.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\WebGrease.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csproj.CopyComplete
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.pdb
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.xml
+C:\Users\Asus\Desktop\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll.config
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.pdb
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Owin.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\WebGrease.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csproj.CopyComplete
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.dll
+C:\Users\Asus\Desktop\Đồ án CSDL\DoAnCSDL_WebBanGiay\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.pdb
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll.config
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\DoAnCSDL_WebBanGiay.pdb
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\EntityFramework.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Owin.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\PagedList.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\WebGrease.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\EntityFramework.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\EntityFramework.SqlServer.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\PagedList.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\PagedList.Mvc.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Helpers.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Mvc.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Optimization.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.Razor.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\System.Web.WebPages.Razor.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Newtonsoft.Json.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Antlr3.Runtime.pdb
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Google.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csproj.AssemblyReference.cache
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csproj.CoreCompileInputs.cache
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.csproj.CopyComplete
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.dll
+D:\DoAnCSDL-WebBanGiay-main (1)\DoAnCSDL-WebBanGiay-main\DoAnCSDL_WebBanGiay\obj\Debug\DoAnCSDL_WebBanGiay.pdb
